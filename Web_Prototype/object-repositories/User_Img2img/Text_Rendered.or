@@ -1,0 +1,61 @@
+{
+  "locatorList": [
+    {
+      "strategy": "ID",
+      "value": "",
+      "active": true
+    },
+    {
+      "strategy": "Name",
+      "value": "",
+      "active": true
+    },
+    {
+      "strategy": "Linktext",
+      "value": "",
+      "active": true
+    },
+    {
+      "strategy": "Partial Linktext",
+      "value": "",
+      "active": true
+    },
+    {
+      "strategy": "Tag Name",
+      "value": "",
+      "active": true
+    },
+    {
+      "strategy": "Class",
+      "value": "",
+      "active": true
+    },
+    {
+      "strategy": "CSS",
+      "value": "",
+      "active": true
+    },
+    {
+      "strategy": "XPath",
+      "value": "//h4[contains(text(),\u0027生成画像一覧\u0027)]",
+      "active": true
+    },
+    {
+      "strategy": "Image",
+      "value": "",
+      "active": true
+    }
+  ],
+  "varNode": {
+    "descendants": {
+      "REPO": {
+        "descendants": {}
+      }
+    },
+    "value": "dca50d09-88a1-4950-8c99-c3758af4ec92"
+  },
+  "type": "Web",
+  "inShadowRoot": false,
+  "parentId": "",
+  "uuid": "dca50d09-88a1-4950-8c99-c3758af4ec92"
+}

@@ -1,0 +1,8 @@
+{
+    "settings": {
+        "manager.projectId": "",
+		"step.delayBeforeRun": "0",
+		"step.timeout": "0"
+    },
+    "runProfiles": []
+}

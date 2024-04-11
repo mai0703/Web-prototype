@@ -1,0 +1,12 @@
+{
+  "suiteMapping": {
+    "898c9c94-7470-415d-8d7b-d4c5c7b7cc91": [
+      {"roundBindingId":"e20ff9bb-2566-4daf-8f8a-6ea123f13759","tcId":"90f68f55-b905-432a-94f3-577e2eec73d7","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"f32d8ca2-5bbe-4afc-a307-c56eb91825ec","tcId":"7fa71329-b754-4134-8e4d-e3151dcbbee0","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"9a55d709-a6da-42cc-8db6-3dcccfbb441e","tcId":"c2f57716-01fa-42ac-9920-8774ddd4712e","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"ce29bcfa-5498-4f23-9272-ed0796cd1d80","tcId":"dcd68dc4-7610-4b35-9140-cf2b3ca5e090","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"74f28d11-61d7-4a2b-a6f1-57af4ae5d35f","tcId":"f74fdd98-07b8-47d0-8af8-6261b1f07008","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"40270d1f-afe5-4ad7-9dce-5e5875f0ef57","tcId":"f74fdd98-07b8-47d0-8af8-6261b1f07008","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""}
+    ]
+  }
+}

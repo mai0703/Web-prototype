@@ -1,0 +1,167 @@
+{
+  "testCaseList": [
+    {
+      "uuid": "74f28d11-61d7-4a2b-a6f1-57af4ae5d35f",
+      "disable": false,
+      "caseUUID": "f74fdd98-07b8-47d0-8af8-6261b1f07008",
+      "runProfile": {
+        "platformType": "Web",
+        "colorCode": "#52c41a",
+        "delayBeforeRun": 0,
+        "timeout": 0,
+        "profile": {
+          "configCapability": {}
+        }
+      },
+      "testRounds": [
+        {
+          "uuid": "2f2182af-ac18-4ec8-b960-6331575cd1d5",
+          "name": "Round 1",
+          "disable": false,
+          "testCaseVariableBinding": {
+            "index": 0,
+            "slice": {
+              "uuid": "",
+              "columns": [],
+              "dataTable": [
+                []
+              ],
+              "tableName": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "ce29bcfa-5498-4f23-9272-ed0796cd1d80",
+      "disable": false,
+      "caseUUID": "dcd68dc4-7610-4b35-9140-cf2b3ca5e090",
+      "runProfile": {
+        "platformType": "Web",
+        "colorCode": "#52c41a",
+        "delayBeforeRun": 0,
+        "timeout": 0,
+        "profile": {
+          "configCapability": {}
+        }
+      },
+      "testRounds": [
+        {
+          "uuid": "67b3f051-4d58-47b6-a7ff-6c10149863e6",
+          "name": "Round 1",
+          "disable": false,
+          "testCaseVariableBinding": {
+            "index": 0,
+            "slice": {
+              "uuid": "",
+              "columns": [],
+              "dataTable": [
+                []
+              ],
+              "tableName": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "9a55d709-a6da-42cc-8db6-3dcccfbb441e",
+      "disable": false,
+      "caseUUID": "c2f57716-01fa-42ac-9920-8774ddd4712e",
+      "runProfile": {
+        "platformType": "Web",
+        "colorCode": "#52c41a",
+        "delayBeforeRun": 0,
+        "timeout": 0,
+        "profile": {
+          "configCapability": {}
+        }
+      },
+      "testRounds": [
+        {
+          "uuid": "5c9ca7ef-3f02-4ddb-addf-bcd648f39bb6",
+          "name": "Round 1",
+          "disable": false,
+          "testCaseVariableBinding": {
+            "index": 0,
+            "slice": {
+              "uuid": "",
+              "columns": [],
+              "dataTable": [
+                []
+              ],
+              "tableName": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "f32d8ca2-5bbe-4afc-a307-c56eb91825ec",
+      "disable": false,
+      "caseUUID": "7fa71329-b754-4134-8e4d-e3151dcbbee0",
+      "runProfile": {
+        "platformType": "Web",
+        "colorCode": "#52c41a",
+        "delayBeforeRun": 0,
+        "timeout": 0,
+        "profile": {
+          "configCapability": {}
+        }
+      },
+      "testRounds": [
+        {
+          "uuid": "29c1e26f-9598-4601-b42d-aa17b90a0d58",
+          "name": "Round 1",
+          "disable": false,
+          "testCaseVariableBinding": {
+            "index": 0,
+            "slice": {
+              "uuid": "",
+              "columns": [],
+              "dataTable": [
+                []
+              ],
+              "tableName": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "uuid": "e20ff9bb-2566-4daf-8f8a-6ea123f13759",
+      "disable": false,
+      "caseUUID": "90f68f55-b905-432a-94f3-577e2eec73d7",
+      "runProfile": {
+        "platformType": "Web",
+        "colorCode": "#52c41a",
+        "delayBeforeRun": 0,
+        "timeout": 0,
+        "profile": {
+          "configCapability": {}
+        }
+      },
+      "testRounds": [
+        {
+          "uuid": "d6b3564a-b66f-446c-9313-f9d2a51e152d",
+          "name": "Round 1",
+          "disable": false,
+          "testCaseVariableBinding": {
+            "index": 0,
+            "slice": {
+              "uuid": "",
+              "columns": [],
+              "dataTable": [
+                []
+              ],
+              "tableName": ""
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "concurrent": 5,
+  "platform": "Web",
+  "uuid": "898c9c94-7470-415d-8d7b-d4c5c7b7cc91"
+}
